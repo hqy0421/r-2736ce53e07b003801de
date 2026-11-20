@@ -26,6 +26,7 @@ from category_encoders.quantile_encoder import QuantileEncoder, SummaryEncoder
 from category_encoders.rankhot import RankHotEncoder
 from category_encoders.sum_coding import SumEncoder
 from category_encoders.target_encoder import TargetEncoder
+from category_encoders.watermark_count import WatermarkCountEncoder
 from category_encoders.woe import WOEEncoder
 
 
